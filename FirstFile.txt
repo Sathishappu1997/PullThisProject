@@ -1,1 +1,2 @@
 This is the file which was created in GITHUB
+Changed the File extension
